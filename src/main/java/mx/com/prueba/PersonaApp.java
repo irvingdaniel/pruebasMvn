@@ -1,3 +1,5 @@
+package mx.com.prueba;
+
 
 public class PersonaApp {
     static Persona persona1;

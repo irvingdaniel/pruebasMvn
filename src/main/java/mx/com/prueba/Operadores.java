@@ -1,3 +1,5 @@
+package mx.com.prueba;
+
 
 public class Operadores {
     static Integer numero1 =10;

@@ -1,3 +1,5 @@
+package mx.com.prueba;
+
 
 public class Persona {
    private String nombre;
