@@ -1,7 +1,7 @@
 package mx.com.prueba;
 
 
-public class Persona {
+public class Persona { 
    private String nombre;
    private String ap_Pat;
    private String ap_Mat;
