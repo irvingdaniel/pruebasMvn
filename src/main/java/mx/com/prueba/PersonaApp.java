@@ -6,6 +6,7 @@ public class PersonaApp {
     static Persona persona2;
     static Persona persona3;
     static Persona persona4;
+    
 	public static void main(String[] args){
 	   persona1 = persona2;
 	   persona1= new Persona();
